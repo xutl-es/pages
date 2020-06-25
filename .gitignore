@@ -1,0 +1,24 @@
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#Hidden Files
+.*
+!.gitignore
+!.npmignore
+¡.npmrc
+
+# Editor Settings
+.vscode/
+
+# Dependency directories
+node_modules/
+package-lock.json
+
+# Typescript output
+coverage
+
+**/*.d.ts
+**/*.js
+**/*.map
