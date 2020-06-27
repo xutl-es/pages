@@ -1,5 +1,7 @@
 # @xutl - Xtra Useful Tool Libraries
 
+Packages and modules are most useful if they do one thing and only that one thing. These are a grouo of extremely useful packages in that they do just one thing and don't try to be everything to everyone.
+
 ## @xutl/defer
 
 Simple library to facilitate using the defer pattern, which makes working with promises much easier for certain circumstances.
