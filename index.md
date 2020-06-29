@@ -62,3 +62,9 @@ See [@xutl/modules](https://gitbub.com/xutl/test-timers/) [documentation](./test
 An easy way to manage the `version` of `package.json`
 
 See [@xutl/version](https://gitbub.com/xutl/version/) [documentation](./version.md).
+
+## @xutl/release
+
+Easy way to handle creating github releases.
+
+See [@xutl/release](https://gitbub.com/xutl/release/) [documentation](./release.md).
