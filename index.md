@@ -39,6 +39,12 @@ Parsing JSON with comments and reading/writing JSON files.
 
 See [@xutl/json](https://gitbub.com/xutl/json/) [documentation](./json.md).
 
+## @xutl/crypto
+
+A wrapper around the `crypto` module that makes working with cryptography a bit easier.
+
+See [@xutl/crypto](https://gitbub.com/xutl/crypto/) [documentation](./crypto.md).
+
 ## @xutl/test
 
 A simple and small test-framework for node stuff that's basically half of Mocha. The half it doesn't support is configurability and coverage, since those are easy to add with separate tools.
@@ -68,3 +74,9 @@ See [@xutl/version](https://gitbub.com/xutl/version/) [documentation](./version.
 Easy way to handle creating github releases.
 
 See [@xutl/release](https://gitbub.com/xutl/release/) [documentation](./release.md).
+
+## @xutl/pack
+
+Easy way to package up files and have a way to random access them in the archive
+
+See [@xutl/pack](https://gitbub.com/xutl/pack/) [documentation](./pack.md).
