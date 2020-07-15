@@ -13,70 +13,70 @@ Includes:
 - tagging
 - full typescript support
 
-See [@xutl/defer](https://gitbub.com/xutl/defer/) [documentation](./defer.md).
+See [@xutl/defer](https://gitbub.com/xutl-es/defer/) [documentation](./defer.md).
 
 ## @xutl/queue
 
 Library to provide async iterable queues. A async iterable queue is something that you can push something onto (such as data that comes in on events) and that you can also async iterate over using `for await (let item of queue)`.
 
-See [@xutl/queue](https://gitbub.com/xutl/queue/) [documentation](./queue.md).
+See [@xutl/queue](https://gitbub.com/xutl-es/queue/) [documentation](./queue.md).
 
 ## @xutl/istream
 
 Library to wrap `EventEmitter` and `ReadableStream` to return an `AyncIterable`. Very useful for reading files line by line or iterating over events.
 
-See [@xutl/istream](https://gitbub.com/xutl/istream/) [documentation](./istream.md).
+See [@xutl/istream](https://gitbub.com/xutl-es/istream/) [documentation](./istream.md).
 
 ## @xutl/aim
 
 Simple library to facilitate using async iterators.
 
-See [@xutl/aim](https://gitbub.com/xutl/aim/) [documentation](./aim.md).
+See [@xutl/aim](https://gitbub.com/xutl-es/aim/) [documentation](./aim.md).
 
 ## @xutl/json
 
 Parsing JSON with comments and reading/writing JSON files.
 
-See [@xutl/json](https://gitbub.com/xutl/json/) [documentation](./json.md).
+See [@xutl/json](https://gitbub.com/xutl-es/json/) [documentation](./json.md).
 
 ## @xutl/crypto
 
 A wrapper around the `crypto` module that makes working with cryptography a bit easier.
 
-See [@xutl/crypto](https://gitbub.com/xutl/crypto/) [documentation](./crypto.md).
+See [@xutl/crypto](https://gitbub.com/xutl-es/crypto/) [documentation](./crypto.md).
 
 ## @xutl/test
 
 A simple and small test-framework for node stuff that's basically half of Mocha. The half it doesn't support is configurability and coverage, since those are easy to add with separate tools.
 
-See [@xutl/test](https://gitbub.com/xutl/test/) [documentation](./test.md).
+See [@xutl/test](https://gitbub.com/xutl-es/test/) [documentation](./test.md).
 
 ## @xutl/test-modules
 
 A simple way to replace module dependencies with mocks.
 
-See [@xutl/modules](https://gitbub.com/xutl/test-modules/) [documentation](./test-modules.md).
+See [@xutl/modules](https://gitbub.com/xutl-es/test-modules/) [documentation](./test-modules.md).
 
 ## @xutl/test-timers
 
 An easy way to mock timers useful for testing, when timers should be intercepted and manually advanced.
 
-See [@xutl/modules](https://gitbub.com/xutl/test-timers/) [documentation](./test-timers.md).
+See [@xutl/modules](https://gitbub.com/xutl-es/test-timers/) [documentation](./test-timers.md).
 
 ## @xutl/version
 
 An easy way to manage the `version` of `package.json`
 
-See [@xutl/version](https://gitbub.com/xutl/version/) [documentation](./version.md).
+See [@xutl/version](https://gitbub.com/xutl-es/version/) [documentation](./version.md).
 
 ## @xutl/release
 
 Easy way to handle creating github releases.
 
-See [@xutl/release](https://gitbub.com/xutl/release/) [documentation](./release.md).
+See [@xutl/release](https://gitbub.com/xutl-es/release/) [documentation](./release.md).
 
 ## @xutl/pack
 
 Easy way to package up files and have a way to random access them in the archive
 
-See [@xutl/pack](https://gitbub.com/xutl/pack/) [documentation](./pack.md).
+See [@xutl/pack](https://gitbub.com/xutl-es/pack/) [documentation](./pack.md).
