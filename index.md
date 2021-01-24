@@ -21,6 +21,14 @@ Library to provide async iterable queues. A async iterable queue is something th
 
 See [@xutl/queue](https://gitbub.com/xutl-es/queue/) [documentation](./queue.md).
 
+## @xutl/events
+
+One eXtremely Useful Tool Library to provide async events. The event handler is allowed to return a Promise and
+event emitting will wait for that Promise to complete before continuing on to the next event handler. `.emit` also returns a Promise
+which will resolve when all handlers have completed.
+
+See [@xutl/events](https://gitbub.com/xutl-es/events/) [documentation](./events.md).
+
 ## @xutl/istream
 
 Library to wrap `EventEmitter` and `ReadableStream` to return an `AyncIterable`. Very useful for reading files line by line or iterating over events.
