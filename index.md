@@ -53,6 +53,12 @@ A wrapper around the `crypto` module that makes working with cryptography a bit 
 
 See [@xutl/crypto](https://github.com/xutl-es/crypto/) [documentation](./crypto.md).
 
+## @xutl/logline
+
+A simple tool to format log-lines. Also capable of parsing them back and forwarding them via UDP.
+
+See [@xutl/logline](https://github.com/xutl-es/logline/) [documentation](./logline.md).
+
 ## @xutl/test
 
 A simple and small test-framework for node stuff that's basically half of Mocha. The half it doesn't support is configurability and coverage, since those are easy to add with separate tools.
@@ -63,13 +69,13 @@ See [@xutl/test](https://github.com/xutl-es/test/) [documentation](./test.md).
 
 A simple way to replace module dependencies with mocks.
 
-See [@xutl/modules](https://github.com/xutl-es/test-modules/) [documentation](./test-modules.md).
+See [@xutl/test-modules](https://github.com/xutl-es/test-modules/) [documentation](./test-modules.md).
 
 ## @xutl/test-timers
 
 An easy way to mock timers useful for testing, when timers should be intercepted and manually advanced.
 
-See [@xutl/modules](https://github.com/xutl-es/test-timers/) [documentation](./test-timers.md).
+See [@xutl/test-timers](https://github.com/xutl-es/test-timers/) [documentation](./test-timers.md).
 
 ## @xutl/version
 
