@@ -59,6 +59,12 @@ A simple tool to format log-lines. Also capable of parsing them back and forward
 
 See [@xutl/logline](https://github.com/xutl-es/logline/) [documentation](./logline.md).
 
+## @xutl/abort
+
+A simple tool to facilitate using AbortController patterns work with async constructs.
+
+See [@xutl/abort](https://github.com/xutl-es/abort/) [documentation](./abort.md).
+
 ## @xutl/test
 
 A simple and small test-framework for node stuff that's basically half of Mocha. The half it doesn't support is configurability and coverage, since those are easy to add with separate tools.
