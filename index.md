@@ -100,3 +100,15 @@ See [@xutl/release](https://github.com/xutl-es/release/) [documentation](./relea
 Easy way to package up files and have a way to random access them in the archive
 
 See [@xutl/pack](https://github.com/xutl-es/pack/) [documentation](./pack.md).
+
+## @xutl/args
+
+Simple argument parser for CLI programs
+
+See [@xutl/args](https://github.com/xutl-es/args/) [documentation](./args.md).
+
+## @xutl/cmd
+
+Simple sub-command executor for CLI programs
+
+See [@xutl/cmd](https://github.com/xutl-es/cmd/) [documentation](./cmd.md).
