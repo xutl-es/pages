@@ -112,3 +112,9 @@ See [@xutl/args](https://github.com/xutl-es/args/) [documentation](./args.md).
 Simple sub-command executor for CLI programs
 
 See [@xutl/cmd](https://github.com/xutl-es/cmd/) [documentation](./cmd.md).
+
+## @xutl/ansi
+
+Simple sub-command executor for CLI programs
+
+See [@xutl/cmd](https://github.com/xutl-es/cmd/) [documentation](./cmd.md).
