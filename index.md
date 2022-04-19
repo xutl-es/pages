@@ -113,8 +113,20 @@ Simple sub-command executor for CLI programs
 
 See [@xutl/cmd](https://github.com/xutl-es/cmd/) [documentation](./cmd.md).
 
-## @xutl/ansi
+# @xutl/ansi
 
-Simple sub-command executor for CLI programs
+One [eXtremely Useful Tool Library](https://xutl.es) to facilitate writing CLI programs that need colored output and moving the text-cursor.
 
-See [@xutl/cmd](https://github.com/xutl-es/cmd/) [documentation](./cmd.md).
+See [@xutl/ansi](https://github.com/xutl-es/ansi/) [documentation](./ansi.md).
+
+## @xutl/semver
+
+One [eXtremely Useful Tool Library](https://xutl.es) to facilitate working with semantic versioning numbers.
+
+See [@xutl/semver](https://github.com/xutl-es/semver/) [documentation](./semver.md).
+
+# @xutl/guard
+
+One [eXtremely Useful Tool Library](https://xutl.es) to facilitate dealing with Error objects in TypeScript.
+
+See [@xutl/guard](https://github.com/xutl-es/guard/) [documentation](./guard.md).
