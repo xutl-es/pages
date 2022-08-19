@@ -29,41 +29,11 @@ which will resolve when all handlers have completed.
 
 See [@xutl/events](https://github.com/xutl-es/events/) [documentation](./events.md).
 
-## @xutl/istream
-
-Library to wrap `EventEmitter` and `ReadableStream` to return an `AyncIterable`. Very useful for reading files line by line or iterating over events.
-
-See [@xutl/istream](https://github.com/xutl-es/istream/) [documentation](./istream.md).
-
-## @xutl/aim
-
-Simple library to facilitate using async iterators.
-
-See [@xutl/aim](https://github.com/xutl-es/aim/) [documentation](./aim.md).
-
 ## @xutl/json
 
 Parsing JSON with comments and reading/writing JSON files.
 
 See [@xutl/json](https://github.com/xutl-es/json/) [documentation](./json.md).
-
-## @xutl/crypto
-
-A wrapper around the `crypto` module that makes working with cryptography a bit easier.
-
-See [@xutl/crypto](https://github.com/xutl-es/crypto/) [documentation](./crypto.md).
-
-## @xutl/logline
-
-A simple tool to format log-lines. Also capable of parsing them back and forwarding them via UDP.
-
-See [@xutl/logline](https://github.com/xutl-es/logline/) [documentation](./logline.md).
-
-## @xutl/abort
-
-A simple tool to facilitate using AbortController patterns work with async constructs.
-
-See [@xutl/abort](https://github.com/xutl-es/abort/) [documentation](./abort.md).
 
 ## @xutl/test
 
@@ -83,50 +53,6 @@ An easy way to mock timers useful for testing, when timers should be intercepted
 
 See [@xutl/test-timers](https://github.com/xutl-es/test-timers/) [documentation](./test-timers.md).
 
-## @xutl/version
+## additional experiments and utilities
 
-An easy way to manage the `version` of `package.json`
-
-See [@xutl/version](https://github.com/xutl-es/version/) [documentation](./version.md).
-
-## @xutl/release
-
-Easy way to handle creating github releases.
-
-See [@xutl/release](https://github.com/xutl-es/release/) [documentation](./release.md).
-
-## @xutl/pack
-
-Easy way to package up files and have a way to random access them in the archive
-
-See [@xutl/pack](https://github.com/xutl-es/pack/) [documentation](./pack.md).
-
-## @xutl/args
-
-Simple argument parser for CLI programs
-
-See [@xutl/args](https://github.com/xutl-es/args/) [documentation](./args.md).
-
-## @xutl/cmd
-
-Simple sub-command executor for CLI programs
-
-See [@xutl/cmd](https://github.com/xutl-es/cmd/) [documentation](./cmd.md).
-
-# @xutl/ansi
-
-One [eXtremely Useful Tool Library](https://xutl.es) to facilitate writing CLI programs that need colored output and moving the text-cursor.
-
-See [@xutl/ansi](https://github.com/xutl-es/ansi/) [documentation](./ansi.md).
-
-## @xutl/semver
-
-One [eXtremely Useful Tool Library](https://xutl.es) to facilitate working with semantic versioning numbers.
-
-See [@xutl/semver](https://github.com/xutl-es/semver/) [documentation](./semver.md).
-
-# @xutl/guard
-
-One [eXtremely Useful Tool Library](https://xutl.es) to facilitate dealing with Error objects in TypeScript.
-
-See [@xutl/guard](https://github.com/xutl-es/guard/) [documentation](./guard.md).
+Have a look at [xutl-es](https://github.com/xutl-es) on github.
